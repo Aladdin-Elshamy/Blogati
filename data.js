@@ -24,7 +24,7 @@ export const data = [
         date: "JULY 23, 2022"
     },
     {
-        src:"./images/blog-image-03.png",
+        src:"./images/blog-image-01.png",
         title:"Blog five",
         paragraph:"I'm excited to start a new learning journey as a Scrimba Bootcamp student! After several months of learning in the Frontend Developer Career Path.",
         date: "JULY 23, 2022"
@@ -36,7 +36,7 @@ export const data = [
         date: "JULY 23, 2022"
     },
     {
-        src:"./images/blog-image-03.png",
+        src:"./images/blog-image-05.png",
         title:"Blog seven",
         paragraph:"I'm excited to start a new learning journey as a Scrimba Bootcamp student! After several months of learning in the Frontend Developer Career Path.",
         date: "JULY 23, 2022"
